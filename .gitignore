@@ -3,3 +3,9 @@
 
 # VSCode
 .vscode
+
+# PyCache
+__pycache__
+
+# venv
+venv
