@@ -1,0 +1,13 @@
+ProductID,Category,UnitsSold,UnitPrice
+P001,Electronics,20,299.99
+P002,Home & Kitchen,35,89.99
+P003,Electronics,15,199.99
+P004,Books,60,9.99
+P005,Electronics,30,149.99
+P006,Books,40,19.99
+P007,Home & Kitchen,25,79.99
+P008,Books,50,14.99
+P009,Electronics,10,399.99
+P010,Home & Kitchen,20,99.99
+P011,Electronics,,699.99
+P012,Home & Kitchen,None,199.99
